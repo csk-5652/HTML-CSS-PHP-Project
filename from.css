@@ -1,0 +1,40 @@
+
+h1{
+    color:aquamarine;
+    text-align: center;
+    font-size: 59px; 
+    
+}
+ h2{
+    margin-left:266px ;
+    margin-top:81px ; 
+    color: orangered;
+    
+    
+}
+
+#in{
+    margin-left: 266px;
+    margin-top: 2px;
+    padding-left: 67px;
+    padding-bottom: 6px;
+    padding-right: 19px;
+    padding-top: 4px;
+    border-radius: 5px;
+    border-color: aqua;
+}
+#sub{
+    margin-left: 266px;
+    margin-top: 60px;
+    padding-left: 17px;
+    padding-bottom: 7px;
+    padding-right: 18px;
+    padding-top: 7px;
+    border-radius: 30px;
+    background-color:gold;
+    color:black;
+    border-color:black;
+}
+div{
+    margin-left: 260px
+}
